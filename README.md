@@ -4,8 +4,8 @@
 Repositori ini berisi *source code* untuk Tugas Terstruktur Pemrograman Web: Pengembangan Sistem Informasi Perpustakaan Digital Mini. Aplikasi ini dibangun menggunakan PHP Native dan MySQL dengan mengusung tema **Magic / RPG Game**.
 
 ## 👨‍💻 Identitas Mahasiswa
-- **Nama:** [Isi Nama Lengkap Kamu]
-- **NPM / NIM:** [Isi NPM/NIM Kamu]
+- **Nama:** [Ferandy Ega Putra Pratama]
+- **NPM / NIM:** [2513020083]
 - **Program Studi:** Sistem Informasi
 
 ## 🎥 Video Demo Aplikasi
